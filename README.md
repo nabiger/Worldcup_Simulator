@@ -94,6 +94,6 @@ Champion: Spain
 ## 📘 گزارش کار
 
 توضیحات کامل معماری پروژه، دلیل استفاده از کتابخانه‌های numpy و matplotlib و نمونه
-نمودار آماری در فایل [`WorldCup_Report.docx`](./WorldCup_Report.pdf) موجود است.
+نمودار آماری در فایل [`WorldCup_Report.pdf`](./WorldCup_Report.pdf) موجود است.
 
 
