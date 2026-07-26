@@ -21,7 +21,7 @@
 ```
 ├── worldcup_simulator.py       # کد اصلی برنامه
 ├── worldcup_2026_teams.csv     # اطلاعات ۳۲ تیم شرکت‌کننده
-├── WorldCup_Report.docx        # گزارش کار پروژه
+├── WorldCup_Report.pdf        # گزارش کار پروژه
 └── README.md
 ```
 
